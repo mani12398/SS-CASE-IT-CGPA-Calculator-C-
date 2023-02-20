@@ -1,0 +1,175 @@
+C:\Users\MANI-LAPTOP\Desktop\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\bin\Debug\SS CASE IT CGPA Calculator.exe.config
+C:\Users\MANI-LAPTOP\Desktop\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\bin\Debug\SS CASE IT CGPA Calculator.exe
+C:\Users\MANI-LAPTOP\Desktop\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\bin\Debug\SS CASE IT CGPA Calculator.pdb
+C:\Users\MANI-LAPTOP\Desktop\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS CASE IT CGPA Calculator.csproj.AssemblyReference.cache
+C:\Users\MANI-LAPTOP\Desktop\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS CASE IT CGPA Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\MANI-LAPTOP\Desktop\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS_CASE_IT_CGPA_Calculator.MainForm.resources
+C:\Users\MANI-LAPTOP\Desktop\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS_CASE_IT_CGPA_Calculator.Properties.Resources.resources
+C:\Users\MANI-LAPTOP\Desktop\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS CASE IT CGPA Calculator.csproj.GenerateResource.cache
+C:\Users\MANI-LAPTOP\Desktop\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS CASE IT CGPA Calculator.csproj.CoreCompileInputs.cache
+C:\Users\MANI-LAPTOP\Desktop\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS CASE IT CGPA Calculator.exe
+C:\Users\MANI-LAPTOP\Desktop\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS CASE IT CGPA Calculator.pdb
+C:\Users\MANI-LAPTOP\Desktop\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS_CASE_IT_CGPA_Calculator.Forms._1stSem.resources
+C:\Users\MANI-LAPTOP\Desktop\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS_CASE_IT_CGPA_Calculator.Forms.CGPA.resources
+C:\Users\MANI-LAPTOP\Desktop\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\bin\Debug\Database1.mdf
+C:\Users\MANI-LAPTOP\Desktop\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\bin\Debug\Database1_log.ldf
+C:\Users\hls\Downloads\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\bin\Debug\Database1.mdf
+C:\Users\hls\Downloads\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\bin\Debug\Database1_log.ldf
+C:\Users\hls\Downloads\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\bin\Debug\SS CASE IT CGPA Calculator.exe.config
+C:\Users\hls\Downloads\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\bin\Debug\SS CASE IT CGPA Calculator.exe
+C:\Users\hls\Downloads\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\bin\Debug\SS CASE IT CGPA Calculator.pdb
+C:\Users\hls\Downloads\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS CASE IT CGPA Calculator.csproj.AssemblyReference.cache
+C:\Users\hls\Downloads\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS_CASE_IT_CGPA_Calculator.Forms._1stSem.resources
+C:\Users\hls\Downloads\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS_CASE_IT_CGPA_Calculator.Forms.CGPA.resources
+C:\Users\hls\Downloads\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS_CASE_IT_CGPA_Calculator.MainForm.resources
+C:\Users\hls\Downloads\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS_CASE_IT_CGPA_Calculator.Properties.Resources.resources
+C:\Users\hls\Downloads\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS CASE IT CGPA Calculator.csproj.GenerateResource.cache
+C:\Users\hls\Downloads\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS CASE IT CGPA Calculator.csproj.CoreCompileInputs.cache
+C:\Users\hls\Downloads\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS CASE IT CGPA Calculator.exe
+C:\Users\hls\Downloads\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS CASE IT CGPA Calculator.pdb
+C:\Users\MANI-LAPTOP\Desktop\1177\SS CASE IT CGPA Calculator\bin\Debug\Database1.mdf
+C:\Users\MANI-LAPTOP\Desktop\1177\SS CASE IT CGPA Calculator\bin\Debug\Database1_log.ldf
+C:\Users\MANI-LAPTOP\Desktop\1177\SS CASE IT CGPA Calculator\bin\Debug\SS CASE IT CGPA Calculator.exe.config
+C:\Users\MANI-LAPTOP\Desktop\1177\SS CASE IT CGPA Calculator\bin\Debug\SS CASE IT CGPA Calculator.exe
+C:\Users\MANI-LAPTOP\Desktop\1177\SS CASE IT CGPA Calculator\bin\Debug\SS CASE IT CGPA Calculator.pdb
+C:\Users\MANI-LAPTOP\Desktop\1177\SS CASE IT CGPA Calculator\obj\Debug\SS CASE IT CGPA Calculator.csproj.AssemblyReference.cache
+C:\Users\MANI-LAPTOP\Desktop\1177\SS CASE IT CGPA Calculator\obj\Debug\SS CASE IT CGPA Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\MANI-LAPTOP\Desktop\1177\SS CASE IT CGPA Calculator\obj\Debug\SS_CASE_IT_CGPA_Calculator.Forms._1stSem.resources
+C:\Users\MANI-LAPTOP\Desktop\1177\SS CASE IT CGPA Calculator\obj\Debug\SS_CASE_IT_CGPA_Calculator.Forms._2ndSem.resources
+C:\Users\MANI-LAPTOP\Desktop\1177\SS CASE IT CGPA Calculator\obj\Debug\SS_CASE_IT_CGPA_Calculator.Forms._3rdSem.resources
+C:\Users\MANI-LAPTOP\Desktop\1177\SS CASE IT CGPA Calculator\obj\Debug\SS_CASE_IT_CGPA_Calculator.Forms._4thSem.resources
+C:\Users\MANI-LAPTOP\Desktop\1177\SS CASE IT CGPA Calculator\obj\Debug\SS_CASE_IT_CGPA_Calculator.Forms._5thSem.resources
+C:\Users\MANI-LAPTOP\Desktop\1177\SS CASE IT CGPA Calculator\obj\Debug\SS_CASE_IT_CGPA_Calculator.Forms._6thSem.resources
+C:\Users\MANI-LAPTOP\Desktop\1177\SS CASE IT CGPA Calculator\obj\Debug\SS_CASE_IT_CGPA_Calculator.Forms._7thSem.resources
+C:\Users\MANI-LAPTOP\Desktop\1177\SS CASE IT CGPA Calculator\obj\Debug\SS_CASE_IT_CGPA_Calculator.Forms._8thSem.resources
+C:\Users\MANI-LAPTOP\Desktop\1177\SS CASE IT CGPA Calculator\obj\Debug\SS_CASE_IT_CGPA_Calculator.Forms.CGPA.resources
+C:\Users\MANI-LAPTOP\Desktop\1177\SS CASE IT CGPA Calculator\obj\Debug\SS_CASE_IT_CGPA_Calculator.MainForm.resources
+C:\Users\MANI-LAPTOP\Desktop\1177\SS CASE IT CGPA Calculator\obj\Debug\SS_CASE_IT_CGPA_Calculator.Properties.Resources.resources
+C:\Users\MANI-LAPTOP\Desktop\1177\SS CASE IT CGPA Calculator\obj\Debug\SS CASE IT CGPA Calculator.csproj.GenerateResource.cache
+C:\Users\MANI-LAPTOP\Desktop\1177\SS CASE IT CGPA Calculator\obj\Debug\SS CASE IT CGPA Calculator.csproj.CoreCompileInputs.cache
+C:\Users\MANI-LAPTOP\Desktop\1177\SS CASE IT CGPA Calculator\obj\Debug\SS CASE IT CGPA Calculator.exe
+C:\Users\MANI-LAPTOP\Desktop\1177\SS CASE IT CGPA Calculator\obj\Debug\SS CASE IT CGPA Calculator.pdb
+C:\Users\MANI-LAPTOP\Desktop\Project\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\bin\Debug\Database1.mdf
+C:\Users\MANI-LAPTOP\Desktop\Project\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\bin\Debug\Database1_log.ldf
+C:\Users\MANI-LAPTOP\Desktop\Project\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\bin\Debug\SS CASE IT CGPA Calculator.exe.config
+C:\Users\MANI-LAPTOP\Desktop\Project\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\bin\Debug\SS CASE IT CGPA Calculator.exe
+C:\Users\MANI-LAPTOP\Desktop\Project\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\bin\Debug\SS CASE IT CGPA Calculator.pdb
+C:\Users\MANI-LAPTOP\Desktop\Project\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS CASE IT CGPA Calculator.csproj.AssemblyReference.cache
+C:\Users\MANI-LAPTOP\Desktop\Project\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS CASE IT CGPA Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\MANI-LAPTOP\Desktop\Project\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS_CASE_IT_CGPA_Calculator.Forms._1stSem.resources
+C:\Users\MANI-LAPTOP\Desktop\Project\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS_CASE_IT_CGPA_Calculator.Forms._2ndSem.resources
+C:\Users\MANI-LAPTOP\Desktop\Project\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS_CASE_IT_CGPA_Calculator.Forms._3rdSem.resources
+C:\Users\MANI-LAPTOP\Desktop\Project\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS_CASE_IT_CGPA_Calculator.Forms._4thSem.resources
+C:\Users\MANI-LAPTOP\Desktop\Project\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS_CASE_IT_CGPA_Calculator.Forms._5thSem.resources
+C:\Users\MANI-LAPTOP\Desktop\Project\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS_CASE_IT_CGPA_Calculator.Forms._6thSem.resources
+C:\Users\MANI-LAPTOP\Desktop\Project\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS_CASE_IT_CGPA_Calculator.Forms._7thSem.resources
+C:\Users\MANI-LAPTOP\Desktop\Project\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS_CASE_IT_CGPA_Calculator.Forms._8thSem.resources
+C:\Users\MANI-LAPTOP\Desktop\Project\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS_CASE_IT_CGPA_Calculator.Forms.CGPA.resources
+C:\Users\MANI-LAPTOP\Desktop\Project\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS_CASE_IT_CGPA_Calculator.MainForm.resources
+C:\Users\MANI-LAPTOP\Desktop\Project\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS_CASE_IT_CGPA_Calculator.Properties.Resources.resources
+C:\Users\MANI-LAPTOP\Desktop\Project\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS CASE IT CGPA Calculator.csproj.GenerateResource.cache
+C:\Users\MANI-LAPTOP\Desktop\Project\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS CASE IT CGPA Calculator.csproj.CoreCompileInputs.cache
+C:\Users\MANI-LAPTOP\Desktop\Project\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS CASE IT CGPA Calculator.exe
+C:\Users\MANI-LAPTOP\Desktop\Project\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS CASE IT CGPA Calculator.pdb
+C:\Users\MANI-LAPTOP\Desktop\forms\SS CASE IT CGPA Calculator\bin\Debug\Database1.mdf
+C:\Users\MANI-LAPTOP\Desktop\forms\SS CASE IT CGPA Calculator\bin\Debug\Database1_log.ldf
+C:\Users\MANI-LAPTOP\Desktop\forms\SS CASE IT CGPA Calculator\bin\Debug\SS CASE IT CGPA Calculator.exe.config
+C:\Users\MANI-LAPTOP\Desktop\forms\SS CASE IT CGPA Calculator\bin\Debug\SS CASE IT CGPA Calculator.exe
+C:\Users\MANI-LAPTOP\Desktop\forms\SS CASE IT CGPA Calculator\bin\Debug\SS CASE IT CGPA Calculator.pdb
+C:\Users\MANI-LAPTOP\Desktop\forms\SS CASE IT CGPA Calculator\obj\Debug\SS CASE IT CGPA Calculator.csproj.AssemblyReference.cache
+C:\Users\MANI-LAPTOP\Desktop\forms\SS CASE IT CGPA Calculator\obj\Debug\SS CASE IT CGPA Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\MANI-LAPTOP\Desktop\forms\SS CASE IT CGPA Calculator\obj\Debug\SS_CASE_IT_CGPA_Calculator.Forms._1stSem.resources
+C:\Users\MANI-LAPTOP\Desktop\forms\SS CASE IT CGPA Calculator\obj\Debug\SS_CASE_IT_CGPA_Calculator.Forms.CGPA.resources
+C:\Users\MANI-LAPTOP\Desktop\forms\SS CASE IT CGPA Calculator\obj\Debug\SS_CASE_IT_CGPA_Calculator.MainForm.resources
+C:\Users\MANI-LAPTOP\Desktop\forms\SS CASE IT CGPA Calculator\obj\Debug\SS_CASE_IT_CGPA_Calculator.Properties.Resources.resources
+C:\Users\MANI-LAPTOP\Desktop\forms\SS CASE IT CGPA Calculator\obj\Debug\SS CASE IT CGPA Calculator.csproj.GenerateResource.cache
+C:\Users\MANI-LAPTOP\Desktop\forms\SS CASE IT CGPA Calculator\obj\Debug\SS CASE IT CGPA Calculator.csproj.CoreCompileInputs.cache
+C:\Users\MANI-LAPTOP\Desktop\forms\SS CASE IT CGPA Calculator\obj\Debug\SS CASE IT CGPA Calculator.exe
+C:\Users\MANI-LAPTOP\Desktop\forms\SS CASE IT CGPA Calculator\obj\Debug\SS CASE IT CGPA Calculator.pdb
+C:\Users\MANI-LAPTOP\Desktop\Data\forms\SS CASE IT CGPA Calculator\obj\Debug\SS CASE IT CGPA Calculator.csproj.AssemblyReference.cache
+C:\Users\MANI-LAPTOP\Desktop\Data\forms\SS CASE IT CGPA Calculator\obj\Debug\SS CASE IT CGPA Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\MANI-LAPTOP\Desktop\Data\forms\SS CASE IT CGPA Calculator\obj\Debug\SS_CASE_IT_CGPA_Calculator.Forms._1stSem.resources
+C:\Users\MANI-LAPTOP\Desktop\Data\forms\SS CASE IT CGPA Calculator\obj\Debug\SS_CASE_IT_CGPA_Calculator.Forms.CGPA.resources
+C:\Users\MANI-LAPTOP\Desktop\Data\forms\SS CASE IT CGPA Calculator\obj\Debug\SS_CASE_IT_CGPA_Calculator.MainForm.resources
+C:\Users\MANI-LAPTOP\Desktop\Data\forms\SS CASE IT CGPA Calculator\obj\Debug\SS_CASE_IT_CGPA_Calculator.Properties.Resources.resources
+C:\Users\MANI-LAPTOP\Desktop\Data\forms\SS CASE IT CGPA Calculator\obj\Debug\SS CASE IT CGPA Calculator.csproj.GenerateResource.cache
+C:\Users\MANI-LAPTOP\Desktop\Data\forms\SS CASE IT CGPA Calculator\obj\Debug\SS CASE IT CGPA Calculator.csproj.CoreCompileInputs.cache
+C:\Users\MANI-LAPTOP\Desktop\Data\forms\SS CASE IT CGPA Calculator\obj\Debug\SS CASE IT CGPA Calculator.exe
+C:\Users\MANI-LAPTOP\Desktop\Data\forms\SS CASE IT CGPA Calculator\obj\Debug\SS CASE IT CGPA Calculator.pdb
+C:\Users\MANI-LAPTOP\Desktop\Data\forms\SS CASE IT CGPA Calculator\bin\Debug\Database1.mdf
+C:\Users\MANI-LAPTOP\Desktop\Data\forms\SS CASE IT CGPA Calculator\bin\Debug\Database1_log.ldf
+C:\Users\MANI-LAPTOP\Desktop\Data\forms\SS CASE IT CGPA Calculator\bin\Debug\SS CASE IT CGPA Calculator.exe.config
+C:\Users\MANI-LAPTOP\Desktop\Data\forms\SS CASE IT CGPA Calculator\bin\Debug\SS CASE IT CGPA Calculator.exe
+C:\Users\MANI-LAPTOP\Desktop\Data\forms\SS CASE IT CGPA Calculator\bin\Debug\SS CASE IT CGPA Calculator.pdb
+C:\Users\MANI-LAPTOP\Desktop\New folder (2)\2\SS CASE IT CGPA Calculator\bin\Debug\Database1.mdf
+C:\Users\MANI-LAPTOP\Desktop\New folder (2)\2\SS CASE IT CGPA Calculator\bin\Debug\Database1_log.ldf
+C:\Users\MANI-LAPTOP\Desktop\New folder (2)\2\SS CASE IT CGPA Calculator\bin\Debug\SS CASE IT CGPA Calculator.exe.config
+C:\Users\MANI-LAPTOP\Desktop\New folder (2)\2\SS CASE IT CGPA Calculator\bin\Debug\SS CASE IT CGPA Calculator.exe
+C:\Users\MANI-LAPTOP\Desktop\New folder (2)\2\SS CASE IT CGPA Calculator\bin\Debug\SS CASE IT CGPA Calculator.pdb
+C:\Users\MANI-LAPTOP\Desktop\New folder (2)\2\SS CASE IT CGPA Calculator\obj\Debug\SS CASE IT CGPA Calculator.csproj.AssemblyReference.cache
+C:\Users\MANI-LAPTOP\Desktop\New folder (2)\2\SS CASE IT CGPA Calculator\obj\Debug\SS CASE IT CGPA Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\MANI-LAPTOP\Desktop\New folder (2)\2\SS CASE IT CGPA Calculator\obj\Debug\SS_CASE_IT_CGPA_Calculator.Forms._1stSem.resources
+C:\Users\MANI-LAPTOP\Desktop\New folder (2)\2\SS CASE IT CGPA Calculator\obj\Debug\SS_CASE_IT_CGPA_Calculator.Forms.CGPA.resources
+C:\Users\MANI-LAPTOP\Desktop\New folder (2)\2\SS CASE IT CGPA Calculator\obj\Debug\SS_CASE_IT_CGPA_Calculator.MainForm.resources
+C:\Users\MANI-LAPTOP\Desktop\New folder (2)\2\SS CASE IT CGPA Calculator\obj\Debug\SS_CASE_IT_CGPA_Calculator.Properties.Resources.resources
+C:\Users\MANI-LAPTOP\Desktop\New folder (2)\2\SS CASE IT CGPA Calculator\obj\Debug\SS CASE IT CGPA Calculator.csproj.GenerateResource.cache
+C:\Users\MANI-LAPTOP\Desktop\New folder (2)\2\SS CASE IT CGPA Calculator\obj\Debug\SS CASE IT CGPA Calculator.csproj.CoreCompileInputs.cache
+C:\Users\MANI-LAPTOP\Desktop\New folder (2)\2\SS CASE IT CGPA Calculator\obj\Debug\SS CASE IT CGPA Calculator.exe
+C:\Users\MANI-LAPTOP\Desktop\New folder (2)\2\SS CASE IT CGPA Calculator\obj\Debug\SS CASE IT CGPA Calculator.pdb
+C:\Users\MANI-PC\Desktop\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS CASE IT CGPA Calculator.csproj.AssemblyReference.cache
+C:\Users\MANI-PC\Desktop\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS CASE IT CGPA Calculator.exe
+C:\Users\MANI-PC\Desktop\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS CASE IT CGPA Calculator.pdb
+C:\Users\MANI-PC\Desktop\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\bin\Debug\Database1.mdf
+C:\Users\MANI-PC\Desktop\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\bin\Debug\Database1_log.ldf
+C:\Users\MANI-PC\Desktop\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\bin\Debug\SS CASE IT CGPA Calculator.exe.config
+C:\Users\MANI-PC\Desktop\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\bin\Debug\SS CASE IT CGPA Calculator.exe
+C:\Users\MANI-PC\Desktop\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\bin\Debug\SS CASE IT CGPA Calculator.pdb
+C:\Users\MANI-PC\Desktop\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS_CASE_IT_CGPA_Calculator.Forms._1stSem.resources
+C:\Users\MANI-PC\Desktop\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS_CASE_IT_CGPA_Calculator.Forms.CGPA.resources
+C:\Users\MANI-PC\Desktop\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS_CASE_IT_CGPA_Calculator.MainForm.resources
+C:\Users\MANI-PC\Desktop\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS_CASE_IT_CGPA_Calculator.Properties.Resources.resources
+C:\Users\MANI-PC\Desktop\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS CASE IT CGPA Calculator.csproj.GenerateResource.cache
+C:\Users\MANI-PC\Desktop\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS CASE IT CGPA Calculator.csproj.CoreCompileInputs.cache
+C:\Users\hls\Downloads\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\bin\Debug\Database1.mdf
+C:\Users\hls\Downloads\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\bin\Debug\Database1_log.ldf
+C:\Users\hls\Downloads\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\bin\Debug\SS CASE IT CGPA Calculator.exe.config
+C:\Users\hls\Downloads\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\bin\Debug\SS CASE IT CGPA Calculator.exe
+C:\Users\hls\Downloads\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\bin\Debug\SS CASE IT CGPA Calculator.pdb
+C:\Users\hls\Downloads\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS CASE IT CGPA Calculator.csproj.AssemblyReference.cache
+C:\Users\hls\Downloads\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS_CASE_IT_CGPA_Calculator.Forms._1stSem.resources
+C:\Users\hls\Downloads\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS_CASE_IT_CGPA_Calculator.Forms.CGPA.resources
+C:\Users\hls\Downloads\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS_CASE_IT_CGPA_Calculator.MainForm.resources
+C:\Users\hls\Downloads\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS_CASE_IT_CGPA_Calculator.Properties.Resources.resources
+C:\Users\hls\Downloads\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS CASE IT CGPA Calculator.csproj.GenerateResource.cache
+C:\Users\hls\Downloads\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS CASE IT CGPA Calculator.csproj.CoreCompileInputs.cache
+C:\Users\hls\Downloads\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS CASE IT CGPA Calculator.exe
+C:\Users\hls\Downloads\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS CASE IT CGPA Calculator.pdb
+C:\Users\MANI-PC\Downloads\SS CASE IT CGPA CalculatorUpdated\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\bin\Debug\Database1.mdf
+C:\Users\MANI-PC\Downloads\SS CASE IT CGPA CalculatorUpdated\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\bin\Debug\Database1_log.ldf
+C:\Users\MANI-PC\Downloads\SS CASE IT CGPA CalculatorUpdated\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\bin\Debug\SS CASE IT CGPA Calculator.exe.config
+C:\Users\MANI-PC\Downloads\SS CASE IT CGPA CalculatorUpdated\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\bin\Debug\SS CASE IT CGPA Calculator.exe
+C:\Users\MANI-PC\Downloads\SS CASE IT CGPA CalculatorUpdated\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\bin\Debug\SS CASE IT CGPA Calculator.pdb
+C:\Users\MANI-PC\Downloads\SS CASE IT CGPA CalculatorUpdated\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS CASE IT CGPA Calculator.csproj.AssemblyReference.cache
+C:\Users\MANI-PC\Downloads\SS CASE IT CGPA CalculatorUpdated\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS_CASE_IT_CGPA_Calculator.Forms._1stSem.resources
+C:\Users\MANI-PC\Downloads\SS CASE IT CGPA CalculatorUpdated\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS_CASE_IT_CGPA_Calculator.Forms.CGPA.resources
+C:\Users\MANI-PC\Downloads\SS CASE IT CGPA CalculatorUpdated\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS_CASE_IT_CGPA_Calculator.MainForm.resources
+C:\Users\MANI-PC\Downloads\SS CASE IT CGPA CalculatorUpdated\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS_CASE_IT_CGPA_Calculator.Properties.Resources.resources
+C:\Users\MANI-PC\Downloads\SS CASE IT CGPA CalculatorUpdated\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS CASE IT CGPA Calculator.csproj.GenerateResource.cache
+C:\Users\MANI-PC\Downloads\SS CASE IT CGPA CalculatorUpdated\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS CASE IT CGPA Calculator.csproj.CoreCompileInputs.cache
+C:\Users\MANI-PC\Downloads\SS CASE IT CGPA CalculatorUpdated\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS CASE IT CGPA Calculator.exe
+C:\Users\MANI-PC\Downloads\SS CASE IT CGPA CalculatorUpdated\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS CASE IT CGPA Calculator.pdb
+C:\Users\MANI-PC\Desktop\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\bin\Debug\Database1.mdf
+C:\Users\MANI-PC\Desktop\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\bin\Debug\Database1_log.ldf
+C:\Users\MANI-PC\Desktop\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\bin\Debug\SS CASE IT CGPA Calculator.exe.config
+C:\Users\MANI-PC\Desktop\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\bin\Debug\SS CASE IT CGPA Calculator.exe
+C:\Users\MANI-PC\Desktop\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\bin\Debug\SS CASE IT CGPA Calculator.pdb
+C:\Users\MANI-PC\Desktop\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS CASE IT CGPA Calculator.csproj.AssemblyReference.cache
+C:\Users\MANI-PC\Desktop\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS_CASE_IT_CGPA_Calculator.Forms._1stSem.resources
+C:\Users\MANI-PC\Desktop\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS_CASE_IT_CGPA_Calculator.Forms.CGPA.resources
+C:\Users\MANI-PC\Desktop\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS_CASE_IT_CGPA_Calculator.MainForm.resources
+C:\Users\MANI-PC\Desktop\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS_CASE_IT_CGPA_Calculator.Properties.Resources.resources
+C:\Users\MANI-PC\Desktop\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS CASE IT CGPA Calculator.csproj.GenerateResource.cache
+C:\Users\MANI-PC\Desktop\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS CASE IT CGPA Calculator.csproj.CoreCompileInputs.cache
+C:\Users\MANI-PC\Desktop\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS CASE IT CGPA Calculator.exe
+C:\Users\MANI-PC\Desktop\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS CASE IT CGPA Calculator.pdb
+C:\Users\MANI-PC\Desktop\SS CASE IT CGPA Calculator\SS CASE IT CGPA Calculator\obj\Debug\SS_CASE_IT_CGPA_Calculator.SplashScreen.resources
